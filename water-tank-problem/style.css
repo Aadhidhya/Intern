@@ -1,0 +1,28 @@
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+input {
+    width: 300px;
+    padding: 6px;
+}
+
+button {
+    padding: 6px 12px;
+    margin-left: 10px;
+}
+
+svg {
+    margin-top: 30px;
+    border: 1px solid #ccc;
+}
+
+.block {
+    fill: #f1c40f;
+}
+
+.water {
+    fill: #00bcd4;
+}
